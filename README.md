@@ -97,3 +97,22 @@ The second module repeated the same underlying attack using Networkwalks' own fr
 
 <img width="670" height="924" alt="Screenshot (86)" src="https://github.com/user-attachments/assets/d7f60cd2-48b1-4ee4-b63a-16740a3bc23d" />
 
+---
+
+## 👤 Author
+
+**Adib Salman Azam**
+Cybersecurity Trainee, Networkwalks Program B082
+
+## 📌 Project Information
+
+**Instructor:** Waqas Karim CCIE |
+**Program Name:** Internship program at Networkwalks | **Week:** 03 | **Repository:** GitHub
+
+---
+
+> ⚠️ **Disclaimer:** These materials are for education and research purposes only, performed under written permission on systems the author owns or is authorized to test.
+
+
+
+
